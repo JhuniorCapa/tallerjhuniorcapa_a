@@ -1,6 +1,6 @@
 # Taller Nro. 1 Entorno de desarrollo
 
-- Nombre: Jhunior Capa
+- Nombre: Jhunior Capa Poma
 
 
 ## Descripción
